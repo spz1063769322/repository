@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 My boss so cool.
 Creating a new branch.
-conflict
+conflict test
