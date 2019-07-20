@@ -5,4 +5,4 @@ Git tracks changes.
 My boss so cool.
 Creating a new branch.
 Conflict &test hard.
-Forbid ff merge.
+Forbiden ff merge.
